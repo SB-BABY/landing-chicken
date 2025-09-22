@@ -1,0 +1,13 @@
+{
+  "links": {
+    "page1": {
+      "chicken-road-link": "https://ya.ru/"
+    },
+    "page2": {
+      "chicken-road-link": "https://google.com/"
+    },
+    "page3": {
+      "chicken-road-link": "https://vk.com/"
+    }
+  }
+}
